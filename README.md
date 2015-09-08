@@ -10,6 +10,5 @@ Required {completed}: User can enter a bill amount, choose a tip percentage, and
 Required {completed}: Settings page to change the default tip percentage.
 
 
-Note: Not sure why my code files are appearing as Readme files
 
 ![Video Walkthrough](TipCal.gif)
